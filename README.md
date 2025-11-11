@@ -11,10 +11,11 @@ Unlike online communities, **Coffee Coffee Coffee Coffee** events must also acco
 
 **Hosts and admins have the responsibility to provide a physically safe environment** including, but not limited to:
 
+- Maintaining a high standard of behavior for ourselves as hosts and admins. We set an example for everyone.
+- Be clear and impartial about application of the Code of Conduct. We hold our friends and relations to the same standard as others.
 - Choosing safe and healthy venues for events
 - Believing people when they report abuse, harassment, or unsafe feelings
 - Address concerns with appropriate action taken promptly. Examples:
-    - Be clear and impartial about application of the Code of Conduct
     - Warn that a given behavior is in violation of this Code of Conduct
     - Informing someone their presence is unwelcome and ask them to leave
     - Barring participation of people who have violated the Code of Conduct in a reasonable manner
@@ -23,8 +24,7 @@ Unlike online communities, **Coffee Coffee Coffee Coffee** events must also acco
 
 Warnings are not a requirement for escalating the host and/or admin response. **Any unsafe or abusive behavior will be met with a proportionate response.**
 
-
-### The **Coffee Coffee Coffee Coffee** events are a safe place for everybody regardless of
+### **Coffee Coffee Coffee Coffee** events are a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -109,24 +109,17 @@ Failing to follow the community guidelines as described in this document carries
 - If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
 ### Best Practices
-- Adhere to social norms. Respect people’s boundaries. You must be able to clearly identify when people are using social signals to give them space or be left alone. Your participation in the community is judged by the hosts’ and/or admins’ standard for respectful behavior — not yours.
+- Adhere to social norms. Respect people’s boundaries.
+    - You must be able to clearly identify when people are using social signals to give them space or be left alone.
+    - Your behavior is judged by the hosts’ and/or admins’ standards and they listen to our community. That means it doesn’t matter if you didn’t commit a crime or that you act this way in front of your family, friends, or coworkers.
 - Stay on topic. The goal of the Coffee Coffee Coffee Coffee is to facilitate discussion of things relating to the host’s group. Be mindful that when hosts form an event around a topic — such as iOS development — the expectation is that people will discuss that topic or anything related to it.
 - Communities thrive when everyone contributes in ways beyond promoting themselves or their work. If you are a contributing member of the community, you are welcome to share and promote work you're excited to have done or job opportunities you may have, but this community is not purely a marketing channel. If your only contributions are ones promoting your own work or jobs, we will ask you to stop and may remove any events or groups that are deemed inappropriate.
-- If you’re reaching out to someone for the first time, be polite, ask if they are ok with you messaging them, and be upfront with what your reason for messaging them is. Please apply the same level of respect you would in a public conversation, knowing that private conversations are held to the same standard. Please do not send unsolicited marketing or recruitment direct messages, especially if you’ve never engaged with someone before.
 
 ### Invitations
 
 #### Who to invite
-
-- Coffee Coffee Coffee Coffee meetups are meant to be professional environments open to the general public. People should feel free to invite others.
+- Coffee Coffee Coffee Coffee meetups are meant to be professional events open to the general public. People should feel free to invite others.
 - That being said, a good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
-
-#### Policies
-- **You can invite up to 2 people per calendar month.**
-- **A maximum of 4 people from the same organization can be invited per month.**
-- Since one of the goals of this Slack and these changes is to create an inclusive space for [underrepresented groups](https://en.wikipedia.org/wiki/Underrepresented_group#Underrepresented_groups_in_STEM) in tech, **inviting an underrepresented member of the community will allow you an extra invite in the following month**.
-- You are responsible for those who you invite... If you invite someone who is causing issues, your future invitation requests may not be honored.
-- Use the workflow in the **#please-add** channel to invite people you would like to have join the Slack.
 
 **Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
 
