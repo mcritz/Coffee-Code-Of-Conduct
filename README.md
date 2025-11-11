@@ -75,10 +75,10 @@ A simple way to remember how you're expected to act: if you can't find anything 
 Please do not post content that is
 - Illegal in nature. We do not want to take on the burden of hosting illegal content.
 - Nudity. There are plenty of places to find nudity on the internet, this is not one of them.
-- More generally [Not Safe For Work](https://www.dictionary.com/browse/nsfw). If you feel something is on the edge of being SFW and it feels relevant and necessary to post, please write a message that the content you wish to post is NSFW and hide the NSFW content in a thread. This way people who are more sensitive to this content do not have to look at it.
+- More generally [Not Safe For Work](https://www.dictionary.com/browse/nsfw).
 - Synthetic media (aka deepfakes) without clearly noting it is synthetic media. You may post synthetic media for the purposes of discussion, for example in the context of a debate about how a deepfake is causing problems in our society, not to deceive others into believing it's real.
 
-### If you say something that is found offensive, and you are called out on it, let’s:
+### If you say or do something that is found offensive, and you are called out on it, let’s:
 
 - Listen without interruption.
 - Believe what the person is saying & do not attempt to disqualify what they have to say.
@@ -91,16 +91,14 @@ Failing to follow the community guidelines as described in this document carries
 
 **For minor infractions, you may:**
 - Be temporarily suspended from the participating in events.
-- Have your invitation privileges temporarily revoked.
 
 **For more serious offenses, repeat offenses, or situations where you are not believed to be acting in good faith, you may:**
 - Be asked to leave permanently.
-- Have your invitation privileges permanently revoked.
+- Have your information and likeness shared with other Coffee Coffee Coffee Coffee hosts, admins, and community members as a self defense mechanism to identify troublemakers that seek to disrupt our community.
 
 **For all infractions:**
 
 - Penalties will be determined by the hosts and/or admins. The actions taken will result from a discussion, which you may be a part of, and the consequences will be binding.
-- While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules, that no new participants will be added to the community on their behalf.
 
 #### Online Privacy
 - All online conversations are private unless otherwise specified. 
