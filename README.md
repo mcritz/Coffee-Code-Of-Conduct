@@ -119,5 +119,3 @@ Failing to follow the community guidelines as described in this document carries
 - Coffee Coffee Coffee Coffee meetups are meant to be professional events open to the general public. People should feel free to invite others.
 - That being said, a good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
 
-**Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
-
